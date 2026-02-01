@@ -1,4 +1,7 @@
-# Olá, Eu sou o Valmir Borges 🤙
+# Olá, Eu sou o Valmir Borges
+## Sou desenvolvedor Full Stack na Avent7, atuando no desenvolvimento de aplicações web e soluções de automação, com foco em eficiência, escalabilidade e inovação. Paralelamente, curso Bacharelado em Ciência da Computação na UFCAT, o que fortalece minha base teórica e prática, permitindo aplicar conhecimentos acadêmicos em projetos reais.
+
+## Sou apaixonado por tecnologia e estou sempre em busca de explorar novas linguagens, frameworks e ferramentas para aprimorar minhas habilidades.
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-borges-5966b9291/)
 
@@ -17,6 +20,8 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT NATIVE" aling="center"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" aling="center"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE JS" aling="center"/>
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs" aling="center"/>
+    <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" alt="N8N" aling="center"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="MATERIAL UI" aling="center"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS" aling="center"/>
 </div>
