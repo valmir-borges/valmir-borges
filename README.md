@@ -1,7 +1,7 @@
 # Olá, Eu sou o Valmir Borges
-## Sou desenvolvedor Full Stack na Avent7, atuando no desenvolvimento de aplicações web e soluções de automação, com foco em eficiência, escalabilidade e inovação. Paralelamente, curso Bacharelado em Ciência da Computação na UFCAT, o que fortalece minha base teórica e prática, permitindo aplicar conhecimentos acadêmicos em projetos reais.
+### Sou desenvolvedor Full Stack na Avent7, atuando no desenvolvimento de aplicações web e soluções de automação, com foco em eficiência, escalabilidade e inovação. Paralelamente, curso Bacharelado em Ciência da Computação na UFCAT, o que fortalece minha base teórica e prática, permitindo aplicar conhecimentos acadêmicos em projetos reais.
 
-## Sou apaixonado por tecnologia e estou sempre em busca de explorar novas linguagens, frameworks e ferramentas para aprimorar minhas habilidades.
+### Sou apaixonado por tecnologia e estou sempre em busca de explorar novas linguagens, frameworks e ferramentas para aprimorar minhas habilidades.
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-borges-5966b9291/)
 
